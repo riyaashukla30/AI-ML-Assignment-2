@@ -80,11 +80,11 @@ This project demonstrates the use of Logistic Regression for predicting customer
 
 ## 📁 Repository Structure
 
+```
 Assignment-2/
 │── Assignment-2.ipynb
 │── README.md
-
----
+```
 
 ## Author
 
